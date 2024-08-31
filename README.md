@@ -8,4 +8,4 @@
  ネットワーク パラメーターは、予測とラベルの間の距離を最小化するために反復的に調整されます。 このプロセスはバッチごとに繰り返され、ネットワークの予測機能が徐々に向上します。...
  バッチ正規化する前の結果として
  <img src="old_val_accuracy.png" height="400px" width ="550px">　
-<img src="old_loss_accuracy.png" height="400px" width ="550px">　
+<img src="old loss_accuracy.png" height="400px" width ="550px">　
