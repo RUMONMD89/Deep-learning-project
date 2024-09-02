@@ -10,3 +10,5 @@
  
 <img src="old_val_accuracy.png" height="400px" width ="550px">　
 <img src="old loss_accuracy.png" height="400px" width ="550px">　
+
+学習を強化し予測機能が徐々に向上するため
