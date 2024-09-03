@@ -12,3 +12,6 @@
 <img src="old loss_accuracy.png" height="400px" width ="550px">　
 
 学習を強化し予測機能が徐々に向上するため「ドロップアウトとバッチノルム」技術を適用して過剰適合を減らします。
+
+<img src="new_val_accuracy.png" height="400px" width ="550px">　
+<img src="new loss_accuracy.png" height="400px" width ="550px">　
