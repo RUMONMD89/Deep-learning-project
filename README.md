@@ -11,7 +11,16 @@
 <img src="old_val_accuracy.png" height="400px" width ="550px">　
 <img src="old loss_accuracy.png" height="400px" width ="550px">　
 
-学習を強化し予測機能が徐々に向上するため いくつか方法があります。「ドロップアウトとバッチノルム」技術を適用して過剰適合を減らします。
+学習を強化し予測機能が徐々に向上するため いくつか方法があります。
+
+データの追加
+データ拡張
+L1/L2 正規化 (古い手法)
+ドロップアウト
+バッチ正規化
+複雑さの軽減
+
+「ドロップアウトとバッチノルム」技術を適用して過剰適合を減らします。
 
 <img src="new val_accuracy.png" height="400px" width ="550px">　
 <img src="new loss_accuracy.png" height="400px" width ="550px">　
