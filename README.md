@@ -21,7 +21,7 @@
 5) バッチ正規化
 6) 複雑さの軽減
 
-今回は「ドロップアウトとバッチノルム」技術を適用して過剰適合を減らします。
+今回は「ドロップアウトとバッチ正規化」技術を適用して過剰適合を減らします。
 
 <img src="new val_accuracy.png" height="400px" width ="550px">　
 <img src="new loss_accuracy.png" height="400px" width ="550px">　
