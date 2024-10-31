@@ -21,7 +21,9 @@
 5) バッチ正規化
 6) 複雑さの軽減
 
-今回は「ドロップアウトとバッチ正規化」技術を適用して過剰適合(data overfitting)を減らします。
+今回「ドロップアウトとバッチ正規化」技術を適用して過剰適合(data overfitting)を減らすことができます。
 
 <img src="new val_accuracy.png" height="400px" width ="550px">　
 <img src="new loss_accuracy.png" height="400px" width ="550px">　
+
+「ドロップアウトとバッチ正規化」技術を適用した後の写真確認すると
